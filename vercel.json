@@ -1,0 +1,85 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/programs.html",
+      "destination": "/programs",
+      "permanent": true
+    },
+    {
+      "source": "/why-enroll.html",
+      "destination": "/why-enroll",
+      "permanent": true
+    },
+    {
+      "source": "/amenities.html",
+      "destination": "/amenities",
+      "permanent": true
+    },
+    {
+      "source": "/approach.html",
+      "destination": "/approach",
+      "permanent": true
+    },
+    {
+      "source": "/messages.html",
+      "destination": "/messages",
+      "permanent": true
+    },
+    {
+      "source": "/gallery.html",
+      "destination": "/gallery",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/about",
+      "destination": "/about.html"
+    },
+    {
+      "source": "/programs",
+      "destination": "/programs.html"
+    },
+    {
+      "source": "/why-enroll",
+      "destination": "/why-enroll.html"
+    },
+    {
+      "source": "/amenities",
+      "destination": "/amenities.html"
+    },
+    {
+      "source": "/approach",
+      "destination": "/approach.html"
+    },
+    {
+      "source": "/messages",
+      "destination": "/messages.html"
+    },
+    {
+      "source": "/gallery",
+      "destination": "/gallery.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact.html"
+    }
+  ]
+}
